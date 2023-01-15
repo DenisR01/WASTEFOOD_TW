@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "description": "Vegetarian"
+    },
+    {
+        "id": 2,
+        "description": "Vegan"
+    },
+    {
+        "id": 3,
+        "description": "Carnivore"
+    },
+    {
+        "id": 4,
+        "description": "Keto"
+    }
+]
